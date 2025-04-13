@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @THEEamaizing
-- 👀 I’m interested in ...Blockchain,aerospace tech 
+- 👀 I’m interested in ...Blockchain,Aerospace tech 
 - 🌱 I’m currently learning ...Typescript,Javascript,React,Python
 - 💞️ I’m looking to collaborate on ... Any MVP projects 
 - 📫 How to reach me ...ambymanage@gmail.com
